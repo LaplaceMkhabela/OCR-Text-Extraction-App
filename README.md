@@ -3,4 +3,4 @@ Extracts text from images with support for English only at present.
 
 ## Screenshots
 
-(!screenshot.png)[App screenshot]
+![App screenshot](screenshot.png)
